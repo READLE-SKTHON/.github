@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🐳 READLE
 
 **뉴스 기반 중·고등학생 문해력 학습 서비스, Readle**
@@ -8,11 +10,13 @@
 
 **[SKTHON] 서경대학교 교내 해커톤 대상 수상**
 
+</div>
+
 ## ✍️ 소개 및 개요
 
 - **서비스명** : READLE
-- **프로젝트 개발 기간** : 2026.09.XX ~ 2026.09.XX
-- **배포 URL** : https://readle-fe.vercel.app/
+- **프로젝트 개발 기간** : 2026.09.11 ~ 2026.09.12
+- **배포 URL** : [READLE 바로가기](https://readle-fe.vercel.app/)
 
 
 ### 🔗 Repository
@@ -56,13 +60,14 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddee5ec3-d713-4b23-afd1-a4ee1ffdf175" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bcb43fcd-85aa-4192-861d-55473c77680a" />
 
-
 ---
+
+# 🚀 기대 효과 및 확장성
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/752f66f1-3ed2-4448-b0df-5bc885723058" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0ba6de3-8db8-4322-85e7-fdc58b26e9c2" />
 
-
+---
 
 # 👥 팀원 소개
 
@@ -140,6 +145,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 # 🛠 Tech Stack
@@ -181,10 +187,13 @@
 
 ---
 
+
 <div align="center">
 
-### 🐳 READLE
+## 🐳 READLE
 
-**뉴스를 읽고, 생각하고, 성장하는 문해력 학습**
+### 뉴스로 키우는 문해력
+
+**읽고, 생각하고, 성장하다.**
 
 </div>
