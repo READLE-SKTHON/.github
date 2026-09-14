@@ -24,6 +24,8 @@
 | Frontend | [readle-fe](https://github.com/READLE-SKTHON/readle-fe) |
 | Backend | [readle-be](https://github.com/READLE-SKTHON/readle-be) |
 
+<br />
+
 ---
 
 # 📌 프로젝트 소개
@@ -185,9 +187,4 @@
 
 ---
 
-
-
-### 🐳 READLE
-
-**뉴스를 읽고, 생각하고, 성장하는 문해력 학습**
 
