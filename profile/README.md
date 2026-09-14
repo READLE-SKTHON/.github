@@ -8,7 +8,11 @@
 
 - **서비스명** : READLE
 - **프로젝트 개발 기간** : 2026.09.XX ~ 2026.09.XX
-- **배포 URL** : [READLE 바로가기](배포주소)
+- **배포 URL** : https://readle-fe.vercel.app/
+
+ ## 🏆 프로젝트 수상 내역
+
+> **[SKTHON] 서경대학교 교내 해커톤 대상 수상**
 
 ### 🔗 Repository
 
@@ -64,87 +68,77 @@
 ## PO
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hwanhee123">
-          <img src="https://github.com/hwanhee123.png" width="100px;" alt="hwanhee123"/>
-          <br />
-          <sub><b>hwanhee123</b></sub>
-        </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hwanhee123">
+        <img src="https://github.com/hwanhee123.png" width="100px;" alt="hwanhee123"/>
         <br />
-        <sub>PO</sub>
-      </td>
-    </tr>
-  </tbody>
+        <sub><b>hwanhee123</b></sub>
+      </a>
+      <br />
+      <sub>PO</sub>
+    </td>
+  </tr>
 </table>
 
 ## Frontend
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/seungminng123">
-          <img src="https://github.com/seungminng123.png" width="100px;" alt="seungminng123"/>
-          <br />
-          <sub><b>seungminng123</b></sub>
-        </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/seungminng123">
+        <img src="https://github.com/seungminng123.png" width="100px;" alt="seungminng123"/>
         <br />
-        <sub>FE Developer</sub>
-      </td>
-
-      <td align="center">
-        <a href="https://github.com/SoWho-J">
-          <img src="https://github.com/SoWho-J.png" width="100px;" alt="SoWho-J"/>
-          <br />
-          <sub><b>SoWho-J</b></sub>
-        </a>
+        <sub><b>seungminng123</b></sub>
+      </a>
+      <br />
+      <sub>FE Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SoWho-J">
+        <img src="https://github.com/SoWho-J.png" width="100px;" alt="SoWho-J"/>
         <br />
-        <sub>FE Developer</sub>
-      </td>
-    </tr>
-  </tbody>
+        <sub><b>SoWho-J</b></sub>
+      </a>
+      <br />
+      <sub>FE Developer</sub>
+    </td>
+  </tr>
 </table>
 
 ## Backend
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/wjdah1028">
-          <img src="https://github.com/wjdah1028.png" width="100px;" alt="wjdah1028"/>
-          <br />
-          <sub><b>wjdah1028</b></sub>
-        </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wjdah1028">
+        <img src="https://github.com/wjdah1028.png" width="100px;" alt="wjdah1028"/>
         <br />
-        <sub>BE Developer</sub>
-      </td>
-
-      <td align="center">
-        <a href="https://github.com/parkyejis">
-          <img src="https://github.com/parkyejis.png" width="100px;" alt="parkyejis"/>
-          <br />
-          <sub><b>parkyejis</b></sub>
-        </a>
+        <sub><b>wjdah1028</b></sub>
+      </a>
+      <br />
+      <sub>BE Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parkyejis">
+        <img src="https://github.com/parkyejis.png" width="100px;" alt="parkyejis"/>
         <br />
-        <sub>BE Developer</sub>
-      </td>
-
-      <td align="center">
-        <a href="https://github.com/ju0321">
-          <img src="https://github.com/ju0321.png" width="100px;" alt="ju0321"/>
-          <br />
-          <sub><b>ju0321</b></sub>
-        </a>
+        <sub><b>parkyejis</b></sub>
+      </a>
+      <br />
+      <sub>BE Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ju0321">
+        <img src="https://github.com/ju0321.png" width="100px;" alt="ju0321"/>
         <br />
-        <sub>BE Developer</sub>
-      </td>
-    </tr>
-  </tbody>
+        <sub><b>ju0321</b></sub>
+      </a>
+      <br />
+      <sub>BE Developer</sub>
+    </td>
+  </tr>
 </table>
-
 ---
 
 # 🛠 Tech Stack
@@ -173,31 +167,16 @@
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ## Deploy & Communication
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# 🗂 Architecture
-
-<!-- 백엔드에서 시스템 아키텍처 이미지가 있다면 추가 -->
-<img width="3840" alt="READLE Architecture" src="아키텍처_이미지_URL" />
-
----
-
-# 💾 ERD
-
-<!-- ERD 이미지가 있다면 추가 -->
-<img width="3840" alt="READLE ERD" src="ERD_이미지_URL" />
 
 ---
 
